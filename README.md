@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dasun Methmal</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dase23m&label=Profile%20views&color=0e75b6&style=flat" alt="dase23m" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dase23m&label=Profile%20views&color=0e75b6&style=flat" alt="Dass23M" /> </p>
 
 <p align="left"> <a href="https://twitter.com/methmaldasun" target="blank"><img src="https://img.shields.io/twitter/follow/methmaldasun?logo=twitter&style=for-the-badge" alt="methmaldasun" /></a> </p>
 
