@@ -52,8 +52,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-
-<a href="https://www.instagram.com/_dase23_/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="_dase23_" height="50" width="50" /></a>
+<a href="https://twitter.com/MethmalDasun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MethmalDasun" height="30" width="40" /></a>
+<a href="https://instagram.com/_dase23_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_dase23_" height="30" width="40" /></a>
 </p>
 
 ---
