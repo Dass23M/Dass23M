@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me ** dasunmethmal23gmail.com **
+- 📫 How to reach me **dasunmethmal23gmail.com**
   
 - ⚡ Fun fact **Call me as Dase**
 
