@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Dasun Methmal</h1>
-<h3 align="center">A Passionate IT Student | Innovating with AI & Cutting-Edge Technologies</h3>
+<h3 align="center">A Passionate IT Student | Innovating with Modern Web Technologies</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dass23M&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Dass23M?label=Followers" alt="GitHub Followers" />
@@ -13,17 +13,17 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=AI+Enthusiast+and+Coder;Building+Intelligent+Applications;Exploring+Next-Gen+Technologies">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=Building+Dynamic+Web+Applications;Exploring+AI+and+New+Technologies;Passionate+Developer+and+Lifelong+Learner">
 </div>
 
 ---
 
 ### 🧑‍💻 About Me
-- 🌱 **Currently Learning:** AI & Machine Learning, Web Development, and Data Structures  
+- 🌱 **Currently Learning:** Web Development, React, and Laravel  
 - 🎓 **Undergraduate at:** ICBT  
-- 💬 **Ask Me About:** Java, Backend Development, AI Concepts, and Cloud Solutions  
+- 💬 **Ask Me About:** Java, Backend Development, and PHP Frameworks  
 - 📧 **Email:** dasunmethmal23@gmail.com  
-- ⚡ **Fun Fact:** AI and gaming keep me inspired!  
+- ⚡ **Fun Fact:** Coding and gaming are my escape!  
 
 ---
 
@@ -38,32 +38,15 @@
 
 ### 🛠️ Technologies I Work With:
 <p align="center">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="50" height="50" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="Java" width="50" height="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="50" height="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="50" height="50" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="50" height="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="PHP" width="50" height="50" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" alt="React" width="50" height="50" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker" width="50" height="50" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="50" height="50" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg" alt="TensorFlow" width="50" height="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="Java" width="50" height="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="Laravel" width="50" height="50" />
 </p>
-
----
-
-### 🌟 AI-Driven Projects:
-<table align="center">
-<tr>
-<td align="center" width="50%">
-  <h3>Intelligent Task Manager</h3>
-  <p>AI-based task prioritization and automation</p>
-  <a href="https://github.com/Dass23M/ai-task-manager"><img src="https://img.shields.io/badge/View%20Project-blue?style=for-the-badge"></a>
-</td>
-<td align="center" width="50%">
-  <h3>Predictive Analytics Dashboard</h3>
-  <p>Real-time data insights powered by machine learning</p>
-  <a href="https://github.com/Dass23M/predictive-dashboard"><img src="https://img.shields.io/badge/View%20Project-blue?style=for-the-badge"></a>
-</td>
-</tr>
-</table>
 
 ---
 
