@@ -39,7 +39,7 @@
 
   <!-- GitHub Streak Stats -->
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=Dass23M&theme=tokyonight&hide_border=true&border_radius=10" 
+    src="https://streak-stats.demolab.com?user=Dass23M&theme=tokyonight&hide_border=true&border_radius=10" 
     alt="GitHub Streak" 
     style="border-radius: 10px; margin-bottom: 20px;" 
     width="400px"
@@ -99,5 +99,5 @@
 
 ### 📌 Pinned Repositories:
 <div align="center">
-  <a href="https://github.com/Dass23M/Project1"><img src="[https://github-readme-stats.vercel.app/api/pin/?]
+  <a href="https://github.com/Dass23M/Project1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dass23M&repo=Project1&theme=tokyonight&hide_border=true" alt="Pinned Repo" width="400px"></a>
 </div>
