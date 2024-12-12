@@ -28,12 +28,12 @@
 ---
 
 ### 🚀 My GitHub Stats
-<div align="center" style="display: flex; flex-direction: column; align-items: center;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
   <!-- GitHub Stats Card -->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Dass23M&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&include_all_commits=true" 
     alt="GitHub Stats" 
-    style="border-radius: 10px; margin-bottom: 20px;" 
+    style="border-radius: 10px;" 
     width="400px"
   />
 
@@ -41,7 +41,7 @@
   <img 
     src="https://streak-stats.demolab.com?user=Dass23M&theme=tokyonight&hide_border=true&border_radius=10" 
     alt="GitHub Streak" 
-    style="border-radius: 10px; margin-bottom: 20px;" 
+    style="border-radius: 10px;" 
     width="400px"
   />
 
@@ -49,7 +49,7 @@
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dass23M&theme=tokyonight&langs_count=8&layout=compact&hide_border=true&border_radius=10" 
     alt="Top Languages" 
-    style="border-radius: 10px; margin-bottom: 20px;" 
+    style="border-radius: 10px;" 
     width="400px"
   />
 </div>
