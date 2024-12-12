@@ -27,13 +27,22 @@
 
 ---
 
-### 🚀 My GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dass23M&theme=radical&show_icons=true&count_private=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dass23M&theme=radical" alt="GitHub Streak" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dass23M&theme=radical&langs_count=8&layout=compact" alt="Top Languages" height="180px" />
-</div>
+  <!-- GitHub Streak Stats -->
+  <img 
+    src="https://streak-stats.demolab.com?user=Dass23M&theme=tokyonight&hide_border=true&border_radius=10" 
+    alt="GitHub Streak" 
+    style="border-radius: 10px; margin-bottom: 20px;" 
+    width="400px"
+  />
 
+  <!-- Top Languages Card -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dass23M&theme=tokyonight&langs_count=8&layout=compact&hide_border=true&border_radius=10" 
+    alt="Top Languages" 
+    style="border-radius: 10px; margin-bottom: 20px;" 
+    width="400px"
+  />
+</div>
 ---
 
 ### 🛠️ Technologies I Work With:
