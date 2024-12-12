@@ -74,4 +74,12 @@
   <img src="https://img.icons8.com/ios-filled/50/ffffff/spotify.png" alt="Spotify Logo" />
   <br>
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31k4ph2bjot6hm6uax7mhwaocynu&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
-</p>
+</p> 
+
+---
+
+### 📌 Pinned Repositories:
+<div align="center">
+  <a href="https://github.com/Dass23M/Project1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dass23M&repo=Project1&theme=radical" alt="Project 1" /></a>
+  <a href="https://github.com/Dass23M/Project2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dass23M&repo=Project2&theme=radical" alt="Project 2" /></a>
+</div>
