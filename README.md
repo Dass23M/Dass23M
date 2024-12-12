@@ -27,9 +27,19 @@
 
 ---
 
+### 🚀 My GitHub Stats
+<div align="center" style="display: flex; flex-direction: column; align-items: center;">
+  <!-- GitHub Stats Card -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Dass23M&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&include_all_commits=true" 
+    alt="GitHub Stats" 
+    style="border-radius: 10px; margin-bottom: 20px;" 
+    width="400px"
+  />
+
   <!-- GitHub Streak Stats -->
   <img 
-    src="https://streak-stats.demolab.com?user=Dass23M&theme=tokyonight&hide_border=true&border_radius=10" 
+    src="https://github-readme-streak-stats.herokuapp.com?user=Dass23M&theme=tokyonight&hide_border=true&border_radius=10" 
     alt="GitHub Streak" 
     style="border-radius: 10px; margin-bottom: 20px;" 
     width="400px"
@@ -43,7 +53,7 @@
     width="400px"
   />
 </div>
----
+
 
 ### 🛠️ Technologies I Work With:
 <p align="center">
