@@ -58,18 +58,6 @@
     </a>
   </td>
 </tr>
-<tr>
-  <td align="center">
-    <a href="https://github.com/Dass23M/Project3">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dass23M&repo=Project3&theme=radical" alt="Project3">
-    </a>
-  </td>
-  <td align="center">
-    <a href="https://github.com/Dass23M/Project4">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dass23M&repo=Project4&theme=radical" alt="Project4">
-    </a>
-  </td>
-</tr>
 </table>
 
 ---
@@ -81,7 +69,7 @@
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Dass23M&theme=radical&hide_border=true&area=true" alt="Contribution Graph" width="800" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Dass23M&theme=radical" alt="Contribution Graph" width="800" />
 </p>
 
 ---
