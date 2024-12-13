@@ -21,7 +21,7 @@
 
 ## 🌟 About Me
 - 🌱 **Currently Learning:** Docker, React.js, Laravel  
-- 🎓 **Undergraduate at:** Imperial College of Business Studies  
+- 🎓 **Undergraduate at:** Cardiff Metropolitan University 
 - 💬 **Ask Me About:** Backend Development, PHP, Laravel, and Open Source Contributions  
 - ⚡ **Fun Fact:** Coding is like solving puzzles—it’s endlessly exciting!  
 - 📧 **Email:** dasunmethmal23@gmail.com  
