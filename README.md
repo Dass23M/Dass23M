@@ -66,13 +66,15 @@
 <p align="center">
   <!-- GitHub Stats -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dass23M&theme=radical" alt="GitHub Stats" width="400" />
+  
+  <!-- GitHub Commit Streak -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dass23M&theme=radical&utcOffset=8" alt="GitHub Streak" width="400" />
 </p>
 
 <p align="center">
-  <!-- GitHub Commit Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dass23M&theme=radical&hide_border=true" alt="GitHub Streak" width="400" />
+  <!-- Contribution Graph -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dass23M&theme=radical" alt="Contribution Graph" width="800" />
 </p>
-
 <p align="center">
   <!-- Programming Languages Chart -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dass23M&layout=compact&theme=radical&langs_count=10&hide_border=true" alt="Programming Languages" width="400" />
