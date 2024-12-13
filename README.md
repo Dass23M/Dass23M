@@ -2,102 +2,119 @@
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="150px">
 </p>
 
-<h1 align="center">Hi 👋, I'm Dasun Methmal</h1>
-<h3 align="center">A Passionate IT Student | Innovating with Modern Web Technologies</h3>
+<h1 align="center">Hello, I'm Dasun Methmal! 👋</h1>
+<h3 align="center">🚀 Software Developer | Open Source Enthusiast | Tech Innovator 🚀</h3>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dass23M&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Dass23M?label=Followers" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/Dass23M?label=Stars" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=Dass23M&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Dass23M?label=Followers&color=ff69b4&style=flat-square" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Dass23M?label=Stars&color=orange&style=flat-square" alt="Stars" />
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=Building+Dynamic+Web+Applications;Exploring+AI+and+New+Technologies;Passionate+Developer+and+Lifelong+Learner">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0EF6FF&center=true&vCenter=true&width=600&lines=Empowering+Tech+Solutions;Building+Innovative+Applications;Passionate+About+Coding+and+Learning">
 </div>
 
 ---
 
-### 🧑‍💻 About Me
-- 🌱 **Currently Learning:** Web Development, React, and Laravel  
-- 🎓 **Undergraduate at:** ICBT  
-- 💬 **Ask Me About:** Java, Backend Development, and PHP Frameworks  
+## 🌟 About Me
+- 🌱 **Currently Learning:** Docker, React.js, Laravel  
+- 🎓 **Undergraduate at:** Imperial College of Business Studies  
+- 💬 **Ask Me About:** Backend Development, PHP, Laravel, and Open Source Contributions  
+- ⚡ **Fun Fact:** Coding is like solving puzzles—it’s endlessly exciting!  
 - 📧 **Email:** dasunmethmal23@gmail.com  
-- ⚡ **Fun Fact:** Coding and gaming are my escape!  
 
 ---
 
-### 🚀 My GitHub Stats
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
-  <!-- GitHub Stats Card -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Dass23M&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&include_all_commits=true" 
-    alt="GitHub Stats" 
-    style="border-radius: 10px;" 
-    width="400px"
-  />
-
-  <!-- GitHub Streak Stats -->
-  <img 
-    src="https://streak-stats.demolab.com?user=Dass23M&theme=tokyonight&hide_border=true&border_radius=10" 
-    alt="GitHub Streak" 
-    style="border-radius: 10px;" 
-    width="400px"
-  />
-
-  <!-- Top Languages Card -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dass23M&theme=tokyonight&langs_count=8&layout=compact&hide_border=true&border_radius=10" 
-    alt="Top Languages" 
-    style="border-radius: 10px;" 
-    width="400px"
-  />
-</div>
-
-
-### 🛠️ Technologies I Work With:
+## 🛠️ Tech Stack:
 <p align="center">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="50" height="50" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="50" height="50" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="50" height="50" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="PHP" width="50" height="50" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" alt="React" width="50" height="50" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="50" height="50" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="Java" width="50" height="50" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="Laravel" width="50" height="50" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java" />
 </p>
 
 ---
 
-### 🌐 Connect with Me:
+## 🚀 Projects:
+<table align="center">
+<tr>
+  <td align="center">
+    <a href="https://github.com/Dass23M/Project1">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dass23M&repo=Project1&theme=radical" alt="Project1">
+    </a>
+  </td>
+  <td align="center">
+    <a href="https://github.com/Dass23M/Project2">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dass23M&repo=Project2&theme=radical" alt="Project2">
+    </a>
+  </td>
+</tr>
+<tr>
+  <td align="center">
+    <a href="https://github.com/Dass23M/Project3">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dass23M&repo=Project3&theme=radical" alt="Project3">
+    </a>
+  </td>
+  <td align="center">
+    <a href="https://github.com/Dass23M/Project4">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dass23M&repo=Project4&theme=radical" alt="Project4">
+    </a>
+  </td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats:
 <p align="center">
-  <a href="https://twitter.com/MethmalDasun" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" /></a>
-  <a href="https://instagram.com/_dase23_" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" /></a>
-  <a href="mailto:dasunmethmal23@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail--v1.png" alt="Gmail" width="40" /></a>
-  <a href="https://www.linkedin.com/in/dasunmethmal/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="40" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dass23M&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dass23M&theme=radical" alt="GitHub Streak" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Dass23M&theme=radical&hide_border=true&area=true" alt="Contribution Graph" width="800" />
 </p>
 
 ---
 
-### ☕ Support Me:
+## 🌐 Connect with Me:
+<p align="center">
+  <a href="https://linkedin.com/in/dasunmethmal" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/MethmalDasun" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" /></a>
+  <a href="mailto:dasunmethmal23@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail" /></a>
+  <a href="https://instagram.com/_dase23_" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" /></a>
+</p>
+
+---
+
+## ☕ Support Me:
 <p align="center">
   <a href="https://www.buymeacoffee.com/Dass23M" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="210" alt="Buy Me A Coffee" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy Me A Coffee" />
   </a>
 </p>
 
 ---
 
-### 🎵 Spotify Now Playing:
-<p align="center">
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/spotify.png" alt="Spotify Logo" />
-  <br>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31k4ph2bjot6hm6uax7mhwaocynu&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
-</p> 
+## 📜 Certifications & Achievements:
+- 📜 **Certified in Full Stack Web Development**  
+- 🏆 **Open Source Contributor Recognition - 2024**  
+- 🎤 **Speaker at Tech Innovators Summit 2024**  
 
 ---
 
-### 📌 Pinned Repositories:
-<div align="center">
-  <a href="https://github.com/Dass23M/Project1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dass23M&repo=Project1&theme=tokyonight&hide_border=true" alt="Pinned Repo" width="400px"></a>
-</div>
+<p align="center">
+  <em>"Code. Innovate. Inspire."</em>
+</p>
+<p align="center">
+  <em>Last Updated: December 2024</em>
+</p>
