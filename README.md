@@ -35,21 +35,7 @@
 
 ---
 
-## 🚀 Featured Projects
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Dass23M/Project1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dass23M&repo=Project1&theme=dark&border_radius=10" alt="Project 1">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Dass23M/Project2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dass23M&repo=Project2&theme=dark&border_radius=10" alt="Project 2">
-      </a>
-    </td>
-  </tr>
-</table>
+
 
 ---
 
