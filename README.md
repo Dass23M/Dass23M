@@ -2,6 +2,7 @@
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="150px" alt="About Me Animation">
 </p>
 
+
 <h1 align="center">Hey there, I’m Dasun Methmal! 👋</h1>
 <h3 align="center">Software Developer | Open Source Advocate | Tech Enthusiast</h3>
 
