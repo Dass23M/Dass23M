@@ -1,85 +1,122 @@
 <p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="150px" alt="About Me Animation">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="180" alt="Coding Animation">
 </p>
 
-
-<h1 align="center">Hey there, I’m Dasun Methmal! 👋</h1>
-<h3 align="center">Software Developer | Open Source Advocate | Tech Enthusiast</h3>
-
-<p align="center">
-  <a href="https://github.com/Dass23M"><img src="https://img.shields.io/github/followers/Dass23M?label=Followers&style=flat-square&color=1DA1F2" alt="Followers"></a>
-  <a href="https://github.com/Dass23M"><img src="https://img.shields.io/github/stars/Dass23M?label=Stars&style=flat-square&color=FF9900" alt="Stars"></a>
-  <img src="https://komarev.com/ghpvc/?username=Dass23M&label=Profile%20Views&style=flat-square&color=00D4FF" alt="Profile Views">
-</p>
-
----
+<h1 align="center">Dasun Methmal</h1>
+<h3 align="center">Full-Stack Developer | Open Source Contributor | Tech Innovator</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=4000&color=00D4FF¢er=true&vCenter=true&width=500&lines=Crafting+Innovative+Solutions;Passionate+About+Code+and+Impact;Building+the+Future+of+Tech" alt="Typing SVG">
+  
+  [![GitHub followers](https://img.shields.io/github/followers/Dass23M?style=for-the-badge&logo=github&color=236ad3)](https://github.com/Dass23M?tab=followers)
+  [![GitHub Stars](https://img.shields.io/github/stars/Dass23M?style=for-the-badge&logo=github&color=FF9500)](https://github.com/Dass23M?tab=repositories)
+  [![Profile Views](https://komarev.com/ghpvc/?username=Dass23M&style=for-the-badge&color=00B0FF)](https://github.com/Dass23M)
+  
 </div>
 
----
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=00B0FF&center=true&vCenter=true&random=false&width=600&lines=Building+Digital+Experiences;Backend+%2B+Frontend+Development;PHP+%7C+Laravel+%7C+React+Specialist;Open+Source+Enthusiast" alt="Typing SVG" />
+</div>
 
-## 🌟 About Me
-- 🌱 **Exploring:** Docker, React.js, and Laravel  
-- 🎓 **Studying at:** Cardiff Metropolitan University  
-- 💡 **Expertise:** Backend Development, PHP, Laravel, Open Source  
-- ⚡ **Fun Fact:** I see coding as a playground for creativity and problem-solving!  
-- 📩 **Reach me:** [dasunmethmal23@gmail.com](mailto:dasunmethmal23@gmail.com)  
+## 👨‍💻 About Me
 
----
+```javascript
+const dasunMethmal = {
+  currentFocus: "Building scalable web applications",
+  education: "Cardiff Metropolitan University",
+  exploring: ["Docker", "React.js", "Laravel"],
+  expertise: ["Backend Development", "PHP", "Laravel", "Open Source"],
+  funFact: "I see coding as a playground for creativity and problem-solving!"
+};
+```
+
+- 🚀 Working on open-source projects to contribute to the developer community
+- 🧠 Constantly learning and experimenting with new technologies
+- 👯 Looking to collaborate on innovative web applications
+- 🎯 2025 Goals: Master microservices architecture & DevOps practices
+- 📫 Reach me: [dasunmethmal23@gmail.com](mailto:dasunmethmal23@gmail.com)
 
 ## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,php,laravel,mysql,docker,git,java" alt="Tech Stack">
-</p>
 
----
+<div align="center">
+  
+  ### Frontend
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  
+  ### Backend
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  
+  ### Tools & DevOps
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  
+</div>
 
+## 📊 GitHub Analytics
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dass23M&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dass23M&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
+</div>
 
----
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dass23M&theme=tokyonight&hide_border=true" />
+</div>
 
-## 📊 GitHub Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dass23M&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=00D4FF" alt="GitHub Stats" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dass23M&theme=dark&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF9900&currStreakLabel=C9D1D9" alt="GitHub Streak" width="400">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dass23M&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=00D4FF" alt="Top Languages" width="300">
-</p>
+## 🏆 GitHub Trophies
 
----
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dass23M&theme=algolia&row=1&column=6&margin-w=15&margin-h=15" />
+</div>
 
-## 🌍 Let’s Connect
-<p align="center">
-  <a href="https://linkedin.com/in/dasunmethmal" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/MethmalDasun" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://instagram.com/_dase23_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="mailto:dasunmethmal23@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+## 📌 Featured Projects
 
----
+<div align="center">
+  
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Dass23M&repo=YourRepoName&theme=tokyonight)](https://github.com/Dass23M/YourRepoName)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Dass23M&repo=AnotherRepo&theme=tokyonight)](https://github.com/Dass23M/AnotherRepo)
+  
+</div>
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/dasunmethmal" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/MethmalDasun" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://instagram.com/_dase23_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:dasunmethmal23@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
 ## ☕ Support My Work
-<p align="center">
+
+<div align="center">
   <a href="https://www.buymeacoffee.com/Dass23M" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" width="180" alt="Buy Me A Coffee">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" width="160" alt="Buy Me A Coffee">
   </a>
-</p>
+</div>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
+</div>
 
-## <img src="https://github.com/Dass23M/Dass23M/blob/main/assets/trophy.gif" width="30px"> Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dass23M&theme=radical&row=1&column=6" alt="Trophy" />
-</p>
-
----
-
-<p align="center">
-  <em>"Code is my canvas, innovation my brush."</em>
-</p>
-<p align="center">
-  <em>Updated: March 2025</em>
-</p>
+<div align="center">
+  <i>"Code doesn't just instruct machines—it tells a story of innovation."</i>
+  <br>
+  <br>
+  <i>Last Updated: April 2025</i>
+</div>
