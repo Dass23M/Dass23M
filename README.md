@@ -76,14 +76,6 @@ const dasunMethmal = {
   <img src="https://github-profile-trophy.vercel.app/?username=Dass23M&theme=algolia&row=1&column=6&margin-w=15&margin-h=15" />
 </div>
 
-## 📌 Featured Projects
-
-<div align="center">
-  
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Dass23M&repo=YourRepoName&theme=tokyonight)](https://github.com/Dass23M/YourRepoName)
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Dass23M&repo=AnotherRepo&theme=tokyonight)](https://github.com/Dass23M/AnotherRepo)
-  
-</div>
 
 ## 🌐 Connect With Me
 
