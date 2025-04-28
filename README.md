@@ -59,7 +59,7 @@ const dasunMethmal = {
   
 </div>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dass23M&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
@@ -70,12 +70,22 @@ const dasunMethmal = {
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dass23M&theme=tokyonight&hide_border=true" />
 </div>
 
+## 📈 Activity Graph
+
+![Dasun's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dass23M&theme=tokyo-night&hide_border=true)
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Dass23M&theme=algolia&row=1&column=6&margin-w=15&margin-h=15" />
 </div>
 
+## 💡 My Latest Projects
+
+<!-- You can update this section with your actual projects -->
+- [Project 1](https://github.com/Dass23M/project1) - A full-stack web application using Laravel and React
+- [Project 2](https://github.com/Dass23M/project2) - Open-source contribution to community tools
+- [Project 3](https://github.com/Dass23M/project3) - API development with PHP and MySQL
 
 ## 🌐 Connect With Me
 
