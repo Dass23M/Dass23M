@@ -73,11 +73,11 @@
 <div align="center">
   <table>
     <tr>
-      <td width="50%">
+      <td>
         <img src="https://github-readme-stats.vercel.app/api?username=Dass23M&show_icons=true&count_private=true&hide_border=true&title_color=00B0FF&icon_color=00B0FF&text_color=c9d1d9&bg_color=0d1117" alt="Dasun's GitHub Stats" />
       </td>
-      <td width="50%">
-        <img src="https://streak-stats.demolab.com?user=Dass23M&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=00B0FF&fire=00B0FF&currStreakLabel=00B0FF" alt="Dasun's GitHub Streak" />
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dass23M&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=00B0FF&fire=00B0FF&currStreakLabel=00B0FF" alt="Dasun's GitHub Streak" />
       </td>
     </tr>
   </table>
@@ -116,24 +116,7 @@ Other       ▒░░░░░░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-## 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/Dass23M/microservice-architecture">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dass23M&repo=microservice-architecture&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/Dass23M/cloud-native-laravel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dass23M&repo=cloud-native-laravel&theme=github_dark&hide_border=true" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/Dass23M/react-performance-toolkit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dass23M&repo=react-performance-toolkit&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/Dass23M/kubernetes-php-toolkit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dass23M&repo=kubernetes-php-toolkit&theme=github_dark&hide_border=true" />
-  </a>
-</div>
 
 ## ✍️ Latest Blog Posts
 
