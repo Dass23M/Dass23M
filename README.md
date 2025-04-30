@@ -11,6 +11,7 @@
   [![GitHub Stars](https://img.shields.io/github/stars/Dass23M?style=flat-square&logo=github&color=FF9500&logoColor=white&labelColor=1a1b27)](https://github.com/Dass23M?tab=repositories)
   [![Profile Views](https://komarev.com/ghpvc/?username=Dass23M&style=flat-square&color=00B0FF&labelColor=1a1b27)](https://github.com/Dass23M)
   [![wakatime](https://wakatime.com/badge/user/Dass23M.svg?style=flat-square)](https://wakatime.com/@Dass23M)
+  [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white&labelColor=1a1b27)](https://dev.to/dass23m)
   
 </div>
 
@@ -32,10 +33,10 @@
   
   const dasun: Developer = {
     name: "Dasun Methmal",
-    title: "Full-Stack Developer",
-    skills: ["PHP", "Laravel", "React", "Node.js", "DevOps"],
+    title: "Full-Stack Developer & Cloud Architect",
+    skills: ["PHP", "Laravel", "React", "Node.js", "DevOps", "AWS"],
     focus: ["Microservices", "Cloud Architecture", "Performance Optimization"],
-    learning: ["Kubernetes", "AWS", "Go", "System Design"],
+    learning: ["Kubernetes", "AWS Solutions Architecture", "Go", "System Design"],
     funFact: "I debug code in my dreams and wake up with solutions!"
   };
   ```
@@ -43,13 +44,29 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 Building scalable, high-performance web applications and microservices
-- 🌱 Currently exploring **Kubernetes**, **AWS Solutions Architecture**, and **System Design**
-- 🔭 Working on open-source projects focused on developer productivity
-- 👯 Open to collaborate on innovative projects with positive impact
-- 📝 Regularly write technical articles on [dev.to](https://dev.to/)
-- 🎯 2025 Goals: Contribute to major open source projects & master cloud-native architecture
-- 📫 Connect with me: [dasunmethmal23@gmail.com](mailto:dasunmethmal23@gmail.com)
+- 🚀 Building scalable, high-performance web applications and cloud-native microservices
+- 🌱 Currently mastering **Kubernetes**, **AWS Solutions Architecture**, and **Advanced System Design**
+- 🔭 Leading open-source projects focused on developer productivity and cloud optimization
+- 👯 Open to collaborate on innovative projects with positive global impact
+- 📝 Writing technical articles on [dev.to](https://dev.to/dass23m)
+- 🎯 2025 Goals: Become AWS certified, contribute to major open source projects & speak at tech conferences
+- 📫 Reach me at: [dasunmethmal23@gmail.com](mailto:dasunmethmal23@gmail.com)
+
+## 💻 Tech Stack
+
+<div align="center">
+  <h3>Languages</h3>
+  <img src="https://skillicons.dev/icons?i=php,js,ts,html,css,java,python,go&theme=dark" alt="Languages" />
+  
+  <h3>Frameworks & Libraries</h3>
+  <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,vue,nodejs,express,tailwind,bootstrap&theme=dark" alt="Frameworks and Libraries" />
+  
+  <h3>Databases & Storage</h3>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase&theme=dark" alt="Databases" />
+  
+  <h3>DevOps & Cloud</h3>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,terraform,githubactions,nginx,grafana&theme=dark" alt="DevOps & Cloud" />
+</div>
 
 ## 📊 Analytics & Stats
 
@@ -87,43 +104,7 @@
   </table>
 </div>
 
-## 📈 Contribution & Activity Metrics
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dass23M&theme=github_dark" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dass23M&theme=github_dark" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dass23M&theme=github_dark" width="32%" />
-</div>
-
-<div align="center">
-  <a href="https://skyline.github.com/Dass23M/2025" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub_Skyline-View%20My%203D%20Contribution%20Graph-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27&color=00B0FF" alt="GitHub Skyline" />
-  </a>
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dass23M&theme=algolia&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" />
-</div>
-
-## 💻 Tech Stack
-
-<div align="center">
-  <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=php,js,ts,html,css,java,python,go&theme=dark" alt="Languages" />
-  
-  <h3>Frameworks & Libraries</h3>
-  <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,vue,nodejs,express,tailwind,bootstrap&theme=dark" alt="Frameworks and Libraries" />
-  
-  <h3>Databases & Storage</h3>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase&theme=dark" alt="Databases" />
-  
-  <h3>DevOps & Tools</h3>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,nginx,git,github,gitlab&theme=dark" alt="DevOps Tools" />
-</div>
-
-## 📊 Weekly Development Breakdown
+## 📈 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
 ```text
@@ -135,33 +116,39 @@ Other       ▒░░░░░░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-## 🔥 Latest Projects
+## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Dass23M/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dass23M&repo=project1&theme=github_dark&hide_border=true" />
+  <a href="https://github.com/Dass23M/microservice-architecture">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dass23M&repo=microservice-architecture&theme=github_dark&hide_border=true" />
   </a>
-  <a href="https://github.com/Dass23M/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dass23M&repo=project2&theme=github_dark&hide_border=true" />
+  <a href="https://github.com/Dass23M/cloud-native-laravel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dass23M&repo=cloud-native-laravel&theme=github_dark&hide_border=true" />
   </a>
 </div>
 <div align="center">
-  <a href="https://github.com/Dass23M/project3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dass23M&repo=project3&theme=github_dark&hide_border=true" />
+  <a href="https://github.com/Dass23M/react-performance-toolkit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dass23M&repo=react-performance-toolkit&theme=github_dark&hide_border=true" />
   </a>
-  <a href="https://github.com/Dass23M/project4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dass23M&repo=project4&theme=github_dark&hide_border=true" />
+  <a href="https://github.com/Dass23M/kubernetes-php-toolkit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dass23M&repo=kubernetes-php-toolkit&theme=github_dark&hide_border=true" />
   </a>
 </div>
 
-## ✍️ Recent Blog Posts
+## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Microservices with Laravel and Docker](https://dev.to/)
-- [Optimizing React Applications for Performance](https://dev.to/)
-- [CI/CD Pipeline Implementation with GitHub Actions](https://dev.to/)
-- [Modern Authentication Patterns for Web Applications](https://dev.to/)
+- [Scaling Laravel Applications with Kubernetes](https://dev.to/dass23m/scaling-laravel-applications-with-kubernetes)
+- [Advanced React Performance Optimization Techniques](https://dev.to/dass23m/advanced-react-performance-optimization-techniques)
+- [Building Event-Driven Microservices with Laravel and RabbitMQ](https://dev.to/dass23m/building-event-driven-microservices-with-laravel-and-rabbitmq)
+- [AWS Solutions Architecture: Best Practices for PHP Applications](https://dev.to/dass23m/aws-solutions-architecture-best-practices-for-php-applications)
 <!-- BLOG-POST-LIST:END -->
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dass23M&theme=algolia&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" />
+</div>
 
 ## 🌐 Let's Connect
 
@@ -183,11 +170,31 @@ Other       ▒░░░░░░░░░░░░░░░░░░░░░�
   </a>
 </div>
 
-## 📌 Pinned Repositories
+## 📊 GitHub Insights
 
 <div align="center">
-  <a href="https://metrics.lecoq.io/insights/Dass23M" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub_Metrics-View%20Extended%20Statistics-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27&color=00B0FF" alt="GitHub Metrics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dass23M&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dass23M&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dass23M&theme=github_dark" width="32%" />
+</div>
+
+<div align="center">
+  <a href="https://skyline.github.com/Dass23M/2025" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub_Skyline-View%20My%203D%20Contribution%20Graph-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27&color=00B0FF" alt="GitHub Skyline" />
+  </a>
+</div>
+
+## 📚 Certifications & Learning
+
+<div align="center">
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/AWS_Solutions_Architect-In_Progress-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Solutions Architect" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Kubernetes_Administrator-In_Progress-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Administrator" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Laravel_Advanced-Completed-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Advanced" />
   </a>
 </div>
 
@@ -207,7 +214,7 @@ Other       ▒░░░░░░░░░░░░░░░░░░░░░�
 </div>
 
 <div align="center">
-  <i>"Great code is not just about solving problems—it's about architecting elegant solutions that stand the test of time."</i>
+  <i>"Code is like humor. When you have to explain it, it's bad."</i>
   <br>
   <br>
   <i>Last Updated: April 2025</i>
